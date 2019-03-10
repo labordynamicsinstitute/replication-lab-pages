@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Cornell Economics Replication Lab
-site: Cornell Economics Replication Lab
+title: Cornell Economics Replication Lab
 email: ldi@cornell.edu
 description: > # this means to ignore newlines until "url:"
   We replicate papers in economics.
