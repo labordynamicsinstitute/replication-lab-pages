@@ -27,6 +27,8 @@ notifications:
 #  - ./bin/deploy.sh
 
 deploy:
+  repo: labordynamicsinstitute/replication-lab
+  target-branch: master
   local-dir: _site
   provider: pages
   skip-cleanup: true
