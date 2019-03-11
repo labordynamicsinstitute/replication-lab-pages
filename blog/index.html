@@ -2,20 +2,20 @@
 layout: default
 ---
 
-<div class="header-bar">
-  <h1>{{ site.blog_name }}</h1>
-  <h2>{{ site.blog_description }}</h2>
-</div>
+  <h2>News</h2>
+  {% if site.news  %}
 
+    <ul class="post-list">
+    {% for post in paginator.posts %}
+      <li>
+        <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+        <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
+        <p>{{ post.description }}</p>
+      </li>
+    {% endfor %}
+    </ul>
 
-<ul class="post-list">
-  {% for post in paginator.posts %}
-    <li>
-      <h2><a class="post-title" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-      <p class="post-meta">{{ post.date | date: '%B %-d, %Y — %H:%M' }}</p>
-      <p>{{ post.description }}</p>
-    </li>
-  {% endfor %}
-</ul>
-
-{% include pagination.html %}
+    {% include pagination.html %}
+  {% else %}
+    <p>No news so far...</p>
+  {% endif %}

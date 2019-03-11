@@ -1,6 +1,6 @@
 ---
 layout: about
-permalink: /
+permalink: /about/
 title: <strong>Cornell Economics Replication Lab</strong>
 description: Contacts. Etc.
 
