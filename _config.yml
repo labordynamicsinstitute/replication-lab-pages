@@ -64,6 +64,8 @@ collections:
     output: true
     permalink: /news/:path/
   projects:
+    defaults:
+      layout: post
     output: true
     permalink: /projects/:path/
 
