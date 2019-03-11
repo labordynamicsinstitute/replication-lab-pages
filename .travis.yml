@@ -17,7 +17,7 @@ env:
 
 sudo: false # route your build to the container-based infrastructure for a faster build
 
-cache: bundler # caching bundler gem packages will speed up build
+#cache: bundler # caching bundler gem packages will speed up build
 
 # Optional: disable email notifications about the outcome of your builds
 notifications:
@@ -34,6 +34,6 @@ deploy:
   provider: pages
   skip-cleanup: true
   github-token: $GH_TOKEN  # Set in the settings page of your repository, as a secure variable
-  keep-history: true
+  keep-history: false
   on:
     branch: master
