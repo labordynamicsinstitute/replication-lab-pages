@@ -45,6 +45,9 @@
           {% endunless %}
         {% endif %}
       {% endfor %}
+      {% if entry.year %}
+      ({{entry.year}})
+      {% endif %}
     </span>
     <span class="title"><strong>"{{entry.title}}"</strong></span>
 
@@ -54,9 +57,13 @@
     {% elsif entry.type == "inproceedings" %}
       <em>In {{entry.booktitle}}</em>
     {% endif %}
-    {% if entry.year %}
-      ({{entry.year}})
+    {% if entry.volume %}
+     {% entry.volume %}
     {% endif %}
+    {% if entry.issue %}
+      ({% entry.issue %})
+    {% endif %}
+    
     </span>
   {% endif %}
 

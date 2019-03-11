@@ -80,7 +80,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages','_projects']
 exclude: [vendor]
 
 # Plug-ins
@@ -104,14 +104,14 @@ scholar:
 
   source: /_bibliography/
   bibliography: papers.bib
-  bibliography_template: bib
+  #bibliography_template: bib
 
   replace_strings: true
   join_strings: true
 
-  details_dir: bibliography
-  details_layout: bibtex.html
-  details_link: Details
+  #details_dir: bibliography
+  #details_layout: bibtex.html
+  #details_link: Details
 
   query: "@*"
 
