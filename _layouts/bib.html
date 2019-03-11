@@ -13,7 +13,6 @@
   {% if entry.type == "thesis" %}
     {{reference}}
   {% else %}
-    <span class="title">{{entry.title}}</span>
     <span class="author">
       {% for author in entry.author_array %}
         {% if forloop.length == 1 %}
@@ -47,6 +46,7 @@
         {% endif %}
       {% endfor %}
     </span>
+    <span class="title"><strong>"{{entry.title}}"</strong></span>
 
     <span class="periodical">
     {% if entry.type == "article" %}
@@ -55,7 +55,7 @@
       <em>In {{entry.booktitle}}</em>
     {% endif %}
     {% if entry.year %}
-      {{entry.year}}
+      ({{entry.year}})
     {% endif %}
     </span>
   {% endif %}
@@ -69,6 +69,12 @@
   {% endif %}
   {% if entry.html %}
     [<a href="{{ entry.html }}" target="_blank">HTML</a>]
+  {% endif %}
+  {% if entry.url %}
+    [<a href="{{ entry.url}}" target="_blank">Link</a>]
+  {% endif %}
+  {% if entry.doi %}
+   [<a href="https://doi.org/{{ entry.doi}}" target="_blank">DOI</a>]
   {% endif %}
   {% if entry.pdf %}
     [<a href="{{ entry.pdf | prepend: '/assets/pdf/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">PDF</a>]
