@@ -38,7 +38,7 @@ blog_description: News about our Lab.
 
 # Pagination
 paginate: 4
-permalink: /blog/:year/:title/
+permalink: /blog/:year/:month/:title/
 paginate_path: /blog/page:num/
 
 text:
@@ -58,18 +58,12 @@ enable_katex:       true
 # Collections
 # -----------------------------------------------------------------------------
 collections:
-  news:
-    defaults:
-      layout: post
-    output: true
-    permalink: /news/:path/
   projects:
     defaults:
       layout: page
     output: true
     permalink: /projects/:path/
 
-news_limit: 5
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -80,7 +74,7 @@ markdown: kramdown
 highlighter: pygments
 
 # Includes & excludes
-include: ['_pages','_projects']
+include: ['_pages']
 exclude: [vendor]
 
 # Plug-ins
@@ -94,7 +88,7 @@ plugins:
 # Jekyll-Scholar
 scholar:
 
-  last_name: Cornell Economics Replication Lab
+  last_name: Vilhuber
 
   style: apa
   locale: en

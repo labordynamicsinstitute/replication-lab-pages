@@ -5,17 +5,21 @@ title: Members
 description: Our Lab Members
 ---
 
-## Director
+<h3 class="year">Director</h3>
+  
 Lars Vilhuber
 
-## Graduate Assistants
+<h3 class="year">Graduate Assistants</h3>
 - Flavio Stanchi
 - David Wasser
+- Sylverie Herbert
 
-## Undergraduate Assistants
+
+<h3 class="year">Undergraduate Assistants</h3>
 Soon
 
-## Past Members
+
+<h3 class="year">Past Members</h3>
 
 ### Graduate Assistants
 - Hautahi Kingi
