@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AEJ:AE
-description: American Economic Journal: Applied Economics
+description: American Economic Journal%3A Applied Economics
 img: /assets/img/ae-icon.png
 ---
 

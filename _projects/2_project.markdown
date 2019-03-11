@@ -1,7 +1,7 @@
 ---
 layout: page
 title: AEJ:Micro
-description: American Economic Journal: Microeconomics
+description: American Economic Journal%3A Microeconomics
 img: /assets/img/micro-icon.png
 ---
 
