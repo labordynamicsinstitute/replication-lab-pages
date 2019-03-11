@@ -5,11 +5,11 @@ description: American Economic Journal: Microeconomics
 img: /assets/img/micro-icon.png
 ---
 
-Post-publication verification for the AEJ:Applied Economics.
+Post-publication verification for the AEJ:Microeconomics.
 
 
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/micro-cover.jpg" alt="" title="example image"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/micro-cover.png" alt="" title="example image"/>
 </div>
 <div class="col three caption">
     The AEJ:Microeconomics publishes papers on microeconomic theory.
