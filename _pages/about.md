@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>{% site.title %}</strong>
+title: <strong>Cornell Economics Replication Lab</strong>
 description: Contacts. Etc.
 
 profile:
@@ -11,7 +11,8 @@ profile:
      <p>Admin office: 216 Ives Hall</p>
      <p>Cornell University</p>
      <p>Ithaca, NY 14853</p>
-news: true
+news: false
+posts: true
 social: true
 ---
 
