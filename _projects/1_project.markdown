@@ -9,14 +9,14 @@ Post-publication verification for the AEJ:Applied Economics.
 
 
 <div class="img_row">
-    <img class="col three left" src="{{ site.baseurl }}/assets/img/ae-cover.jpg" alt="" title="example image"/>
+    <img class="col three left" src="{{ site.baseurl }}/assets/img/ae-cover.png" alt="" title="AEJ:AE cover"/>
 </div>
 <div class="col three caption">
     The AEJ:AE publishes papers on a wide range of topics.
 </div>
 
 
-You can also put regular text between your rows of images. Say you wanted to write a little bit about your project before you posted the rest of the images. You describe how you toiled, sweated, *bled* for your project, and then.... you reveal it's glory in the next row of images.
+This page should be generated from statistics on replications of these articles, with additional information potentially elsewhere.
 
 
 <div class="img_row">
