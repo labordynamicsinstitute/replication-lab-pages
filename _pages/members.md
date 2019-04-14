@@ -25,4 +25,4 @@ Soon
 - Hautahi Kingi
 
 ### Undergraduate Assistants
-Soon
+- John Park
