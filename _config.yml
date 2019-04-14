@@ -84,7 +84,8 @@ plugins:
     - jekyll/scholar
     - jekyll-toc
     - jemoji
-
+    - jekyll-seo-tag
+    
 # Jekyll-Scholar
 scholar:
 
