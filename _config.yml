@@ -1,8 +1,8 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
-name: Cornell Economics Replication Lab
-title: Cornell Economics Replication Lab
+name: LDI Replication Lab
+title: LDI Replication Lab
 email: ldi@cornell.edu
 description: > # this means to ignore newlines until "url:"
   We replicate papers in economics.
@@ -44,7 +44,7 @@ contact_note: >
 # -----------------------------------------------------------------------------
 # Blog
 # -----------------------------------------------------------------------------
-blog_name: Cornell Economics Replication Lab
+blog_name: LDI Replication Lab
 blog_description: News about our Lab.
 
 # Pagination

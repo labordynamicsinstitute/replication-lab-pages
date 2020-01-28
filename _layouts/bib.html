@@ -57,6 +57,13 @@
     {% if entry.year %}
       {{entry.year}}
     {% endif %}
+    {% if entry.doi %}
+      <a href="https://doi.org/{{entry.doi}}">{{entry.doi}}</a>
+    {% else %}
+      {% if entry.url %}
+       <a href="{{entry.url}}">{{entry.url}}</a>
+      {% endif %}
+    {% endif %}
     </span>
   {% endif %}
 
