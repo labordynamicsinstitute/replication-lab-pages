@@ -4,9 +4,8 @@
 
     {% if page.layout != "about" %}
     <span class="site-title">
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">
-          {% assign name = site.name | split: ' ' %}
-        <strong>{{ name }}</strong> </a>
+        {% assign name = site.name | split: ' ' %}
+        <strong>{{ name | first }}</strong> {{ name | last }}
     </span>
     {% endif %}
 
@@ -24,10 +23,10 @@
 
       <div class="trigger">
         <!-- About -->
-        <!-- <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">About</a>-->
+        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">about</a>
 
         <!-- Blog -->
-        <a class="page-link" href="{{ '/news/' | prepend: site.baseurl | prepend: site.url }}">News</a>
+        <a class="page-link" href="{{ '/blog/' | prepend: site.baseurl | prepend: site.url }}">blog</a>
 
         <!-- Pages -->
         {% for page in site.pages %}
