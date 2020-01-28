@@ -7,9 +7,8 @@ img: /assets/img/ae-icon.png
 
 
 
-<div class="col three caption">
     For this project, students attempted to reproduce the tables and figures of articles published in the <a href="https://www.aeaweb.org/journals/app" alt="link to AEJ:App">American Economic Journal: Applied Economics</a>.
-</div>
+
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/ae-cover.png" alt="" title="AE cover"/>
 </div>

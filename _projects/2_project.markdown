@@ -15,5 +15,5 @@ Since his appointment as AEA Data Editor in early 2018, Lars Vilhuber has been p
     <img class="col one left" src="{{ site.baseurl }}/assets/img/AEAJournals.png" alt="" title="AEA journals"/>
 </div>
 <div class="col one caption">
-    This image can also have a caption. It's like magic.
+    These are the journals we currently cover.
 </div>
