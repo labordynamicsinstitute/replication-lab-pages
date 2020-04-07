@@ -1,13 +1,13 @@
 ---
 layout: page
 title: Post-publication Replication
-description: a project with a background image
+description: Assessing reproducibility after publication
 img: /assets/img/ae-icon.png
 ---
 
 
 
-    For this project, students attempted to reproduce the tables and figures of articles published in the <a href="https://www.aeaweb.org/journals/app" alt="link to AEJ:App">American Economic Journal: Applied Economics</a>.
+For this project, students attempted to reproduce the tables and figures of articles published in the <a href="https://www.aeaweb.org/journals/app" alt="link to AEJ:App">American Economic Journal: Applied Economics</a>.
 
 <div class="img_row">
     <img class="col three left" src="{{ site.baseurl }}/assets/img/ae-cover.png" alt="" title="AE cover"/>
