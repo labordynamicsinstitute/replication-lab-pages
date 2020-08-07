@@ -9,7 +9,7 @@ description: Training and courses related to this project
 
 We regularly conduct training of new team members - please feel free to participate!
 
-Training materials are available [here](https://github.com/labordynamicsinstitute/replicability-training).
+Training materials are available [here](https://labordynamicsinstitute.github.io/replicability-training).
 
 ## Courses
 
