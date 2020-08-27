@@ -9,26 +9,30 @@ description: Our Lab Members
   
 Lars Vilhuber
 
+<h3 class="year">Assistant</h3>
+
+Michael Darisse
+
 <h3 class="year">Graduate Assistants</h3>
-Meredith Welch, David Wasser
+Harry Son, Meredith Welch
 
 
 <h3 class="year">Undergraduate Assistants</h3>
 
-| Team          | Name                    |           |
-|---------------|-------------------------|-----------|
-| *Green Lead*         | *Steve Yeh*     |
-| Green                | Naomi Li      | *Special task* | 
-|                      | Jiayin Song   |
-|                      | Kirubeal T\. Wondimu |
-|                      | Luis Lopez Cabrera   |
-|                      | Louis Liu            |
-|                      | Weilun Shi           |
-| *Blue Lead*          | *Ryan Ali*      |
-| Blue                 | Joshua Passel |
-|                      | Jeong Hyun Lee       |
-|                      | Mary\-Jo Ajiduah     |
-|                      | Siyang \(Elaine\) Yu |
+Jill Crosby
+Liam P. Cushen
+Lydia Reiner
+Melanie Chen
+Xiangru Li
+Zechariah Immanuel Karsana
+Zebang Xu
+Louis Liu
+Joshua Passel
+Mary-Jo Ajiduah
+Matthew H. Wang
+Nehedin Juarez
+Ololade Omotoba 
+Peter Rafael Sanchez
 
 <h3 class="year">Past Members</h3>
 
@@ -36,6 +40,7 @@ Meredith Welch, David Wasser
 - Hautahi Kingi
 - Flavio Stanchi
 - Sylverie Herbert
+- David Wasser
 
 ### Undergraduate Assistants
 Xing Su
@@ -57,3 +62,21 @@ Sam Mbugua
 Xueshi Su
 Vendela Norman
 Anderson Park
+Naomi Li
+Manas Gogula 
+Valerie Setiawan 
+Seong Hwan Kim
+Lauren Stubbs
+May Shen 
+Zhaojiahong Zhu
+Franklin Omullo
+Syon Verma
+Rubal Mistry
+Weilun Shi
+Luis Lopez Cabrera
+Yanyun (Iris) Chen
+Ejin Leah Kim
+Jiayin Song
+Tina Yuchen Tian 
+Minh Nguyen 
+Yijing (Paige) Zhao
