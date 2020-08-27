@@ -5,7 +5,9 @@ title: Members
 description: Our Lab Members
 ---
 
-<h2 class="year">Director</h2>
+## Current Members
+
+<h3 class="year">Director</h3>
   
 Lars Vilhuber
 
@@ -34,15 +36,16 @@ Nehedin Juarez
 Ololade Omotoba 
 Peter Rafael Sanchez
 
-<h3 class="year">Past Members</h3>
+## Past Members
 
-### Graduate Assistants
+<h3 class="year">Past Graduate Assistants</h3>
 - Hautahi Kingi
 - Flavio Stanchi
 - Sylverie Herbert
 - David Wasser
 
-### Undergraduate Assistants
+<h3 class="year">Past Undergraduate Assistants</h3>
+
 Xing Su
 Rachel Harkins
 Jason S. Katz
