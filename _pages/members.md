@@ -5,7 +5,7 @@ title: Members
 description: Our Lab Members
 ---
 
-<h3 class="year">Director</h3>
+<h2 class="year">Director</h2>
   
 Lars Vilhuber
 
