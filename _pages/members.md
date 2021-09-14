@@ -16,70 +16,104 @@ Lars Vilhuber
 Michael Darisse
 
 <h3 class="year">Graduate Assistants</h3>
-Harry Son, Meredith Welch
+
+Leonel Borja
 
 
 <h3 class="year">Undergraduate Assistants</h3>
 
-Jill Crosby
-Liam P. Cushen
-Lydia Reiner
+Janet Malzahn 
+Andreas Psahos
+Craig Schulman
+Daniella Pena
+Eli Kolodezh
+Emma Sbrollini
+Huey Le
+Jaeyoung Shim
+Jared Martin
+Julia Zimmerman
+Kate Hofer
+Lilly Thomalla
+Melanie Brown
 Melanie Chen
-Xiangru Li
-Zechariah Immanuel Karsana
-Zebang Xu
-Louis Liu
-Joshua Passel
-Mary-Jo Ajiduah
-Matthew H. Wang
-Nehedin Juarez
-Ololade Omotoba 
-Peter Rafael Sanchez
+Suvd Khaliun
+Satya Datla
+Jonathan Temkin
+Kevin Bao
+Lincy Chen
+Asha Patt
+Taren Daniels
+Qianyi (Jim) Liu
+Zijing Zhou
+Matthew LaFontaine
 
 ## Past Members
 
 <h3 class="year">Past Graduate Assistants</h3>
+
 - Hautahi Kingi
 - Flavio Stanchi
 - Sylverie Herbert
 - David Wasser
+- Meredith Welch
+- Harry Son
 
 <h3 class="year">Past Undergraduate Assistants</h3>
 
-Xing Su
-Rachel Harkins
-Jason S. Katz
+Ashley Cooray
 Anthony Peraza
-Elijah B. Ruiz
-John Park
-Gabriel Bond
-Samuel Frey
-William Hernandez
+Benjamin Choe
 Craig Schulman
-Linchen Zhang
-Alexia Ge
-Anthony Peraza
-Nicholas Swan
-Nishat Peuly
-Sam Mbugua 
-Xueshi Su
-Vendela Norman
-Anderson Park
-Naomi Li
-Manas Gogula 
-Valerie Setiawan 
-Seong Hwan Kim
-Lauren Stubbs
-May Shen 
-Zhaojiahong Zhu
-Franklin Omullo
-Syon Verma
-Rubal Mistry
-Weilun Shi
-Luis Lopez Cabrera
-Yanyun (Iris) Chen
+Surita Basu
+Dmitry Shlyapnikov
 Ejin Leah Kim
+Franklin Omullo
+Fatoumata Sidibe
+Hongyi Duan
+Justin Sun
+Joshua Passel
+Jacob Recht
+John Park
+Jeong Hyun Lee
+Jill Crosby
 Jiayin Song
-Tina Yuchen Tian 
+Kayla Scott
+Kirubeal T. Wondimu
+Luke O'Leary
+Liam P. Cushen
+Lauren Stubbs
+Luis Lopez Cabrera
+Louis Liu
+Lydia Reiner
 Minh Nguyen 
+Mary-Jo Ajiduah
+Matthew H. Wang
+Maria Christina Kalogera
+Manas Gogula 
+Michael Wang
+Nehedin Juarez
+Naomi Li
+Ololade Omotoba 
+Peter Rafael Sanchez
+Alexia Ge
+Ryan Ali
+Rubal Mistry
+Rohan Bansal
+Samuel Frey
+Samuel Evans
+Seong Hwan Kim
+Syon Verma
+Steve Yeh
+Tarangana Thapa
+Vansh Gupta
+Valerie Setiawan 
+William Silverman
+Weilun Shi
+Xiangru Li
+May Shen 
+Yanyun (Iris) Chen
+Tina Yuchen Tian 
 Yijing (Paige) Zhao
+Zechariah Immanuel Karsana
+Zebang Xu
+Zhaojiahong Zhu
